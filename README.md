@@ -1,0 +1,2 @@
+# static-site
+ WebConfig Site
